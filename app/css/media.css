@@ -1,0 +1,150 @@
+@media screen and (max-width: 1200px) {
+	.container {
+		padding: 0 10px;
+	}
+}
+@media screen and (max-width: 1052px) {
+	.main-header__wrap {
+		justify-content: space-around;
+	}
+	.info-img {
+		width: 400px;
+	}
+	.main-section nav {
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.advantages {
+		flex-wrap: wrap;
+	}
+	.adv-item {
+		margin: 10px;
+		text-align: center;
+	}
+	.new-line {
+		justify-content: center;
+	}
+	.slider-title__in {
+		font-size: 30px;
+	}
+
+}
+@media screen and (max-width: 1004px) {
+	aside {
+		max-height: 540px;
+	}
+	.news-line {
+		justify-content: center;
+	}
+}
+@media screen and (max-width: 890px) {
+	.news-item {
+		width: 40%;
+	}
+	.catalog-text {
+		margin-left: 0px;
+	}
+}
+@media screen and (max-width: 800px) {
+	.main-wrap {
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	aside {
+		display: none;
+		width: 100%;
+		text-align: center;
+		margin: 0;
+	}
+	.slider-title__in {
+    font-size: 20px;
+	}
+	#touch-menu {display: block;}
+}
+@media screen and (max-width: 761px) {
+	.top-header__wrap {
+		justify-content: space-around;
+		padding-top: 5px;
+	}
+	.auth-wrap {
+		margin-top: 10px;
+	}
+}
+@media screen and (max-width: 661px) {
+	.news-line {
+		flex-direction: column;
+	}
+	.news-item {
+		margin: 0 auto;
+	}
+	.review-name {
+    font-size: 15px;
+	}
+
+}
+@media screen and (max-width: 581px) {
+	.checkout-wrap {
+		margin: 10px 0;
+	}
+	.slick-dots {
+    position: absolute;
+    bottom: 15px;
+    display: block;
+    left: 86px;
+    width: 100px;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: center;
+	}
+	.slider-title__in {
+    font-size: 15px;
+	}
+}
+@media screen and (max-width: 545px) {
+	.review-wrap {
+		flex-direction: column;
+	}
+	.review-item {
+		margin: 30px auto;
+		width: 50%;
+	}
+}
+@media screen and (max-width: 460px) {
+	.news-item {
+    width: 100%;
+	}	
+}
+@media screen and (max-width: 500px) {
+	.cabinet-form input {
+		width: 300px;
+	}
+	.info-img {
+		width: 250px;
+	}
+}
+@media screen and (max-width: 400px) {
+	.cabinet-form input {
+		width: 250px;
+	}
+}
+@media screen and (max-width: 411px) {
+	.btn-city {
+		margin-bottom: 5px;
+	}
+	.main-header__wrap {
+		flex-direction: column;
+	}
+	.basket {
+		width: 270px;
+	}
+	.logo {
+		margin-bottom: 13px;
+	}
+}
+
+@media screen and (max-width: 386px) {
+	.main-section nav {
+		justify-content: space-between;
+	}
+}
